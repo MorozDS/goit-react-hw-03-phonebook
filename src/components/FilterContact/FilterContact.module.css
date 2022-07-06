@@ -1,0 +1,20 @@
+.filterheader {
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.input {
+  height: 35px;
+  padding: 6px;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.87;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.input:focus {
+  outline-color: blue;
+}
